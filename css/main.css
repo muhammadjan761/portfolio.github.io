@@ -37,6 +37,8 @@
 	}
 .row{
 	overflow-x: hidden;
+	margin-top: 55px;
+
 }
 html {
 	font-size: 100%; -webkit-font-smoothing: antialiased;
