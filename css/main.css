@@ -502,8 +502,15 @@ html {
 	position: fixed; top: 0; width: 100%; z-index: 200; height: 50px; color: rgba(225, 246, 255, 0.3);
 	}
 	.header-wrap {
-		position: fixed; z-index: 2000; width: 120px; left: -120px; top: 0; bottom: 0; overflow: auto; overflow-x: hidden; -webkit-overflow-scrolling: touch; 
-        }
+		position: fixed;
+		z-index: 2000;
+		width: 120px;
+		left: -120px;
+		top: 0;
+		bottom: 0;
+		overflow: auto;
+		overflow-x: hidden;
+		-webkit-overflow-scrolling: touch;        }
 	.header,
 	.header-wrap {
 		background: #1c262b;
